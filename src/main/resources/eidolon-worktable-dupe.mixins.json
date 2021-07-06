@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "eidolon-worktable-dupe.refmap.json",
+    "package": "rmc.mixins.eidolon_worktable_dupe.inject",
+    "mixins": [
+        "WorktableResultSlotMixin"
+    ]
+}
